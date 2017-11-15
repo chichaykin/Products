@@ -11,6 +11,6 @@ Dagger
 
 Screenshots
 
-![Screen 1](https://github.com/chichaykin/Products/blob/master/images/Screenshot_1510712188.png)
+![Screen 1](/images/Screenshot_1510712188.png)
 ![Screen 2](https://github.com/chichaykin/Products/blob/master/images/Screenshot_1510712202.png)
 
